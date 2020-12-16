@@ -1,2 +1,2 @@
 # Regular-Expression
-Some basic regular expressions e.g., emails are coded here in python. The 'regex' library is used.
+Some basic functionalities of python 're' library are used to code some useful searching of patterns.
